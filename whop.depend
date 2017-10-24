@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1460460453 source:d:\workspace_c++\whop\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<regex>
+	<fstream>
+	<vector>
+	<windows.h>
+	"Shlwapi.h"
+
